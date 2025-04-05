@@ -1,0 +1,7 @@
+# Host
+# Host: https://bestnewshub.com
+
+Disallow: /pages/privacy-policy
+Disallow: /pages/faq
+Disallow: /pages/terms-and-condition
+Disallow: https://admin.bestnewshub.com/admin/*

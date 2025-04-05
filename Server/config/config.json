@@ -1,0 +1,22 @@
+{
+  "production": {
+    "username": "admin",
+    "password": "Innovators-Dev",
+    "database": "Best_News_Hub_Production",
+    "host": "mysqldatabase-1.cfmqcooggwu3.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql",
+    "port": "3306",
+    "charset": "utf8mb4",
+    "collate": "utf8mb4_unicode_ci"
+  },
+  "development": {
+    "username": "admin",
+    "password": "Innovators-Dev",
+    "database": "Best_News_Hub",
+    "host": "mysqldatabase-1.cfmqcooggwu3.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql",
+    "port": "3306",
+    "charset": "utf8mb4",
+    "collate": "utf8mb4_unicode_ci"
+  }
+}
